@@ -8,7 +8,7 @@ generate_random_date() {
 }
 
 # Specify the directory where your files are located
-directory="/path/to/your/files"
+directory="/home/cronk_jake/data"
 
 # Iterate through the files in the directory
 for file in "$directory"/*; do
